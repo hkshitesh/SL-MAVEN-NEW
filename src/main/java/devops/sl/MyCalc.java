@@ -4,7 +4,10 @@ public class MyCalc {
 	
 	int sum(int a, int b)
 	{
-		return a+b;
+		int c;
+		int d;
+		c=10+5;
+		return c;
 	}
 	int diff(int a, int b)
 	{
